@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/h4de5ing/AndroidCommon.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Aspsine/SwipeToLoadLayout.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\source_code" />
