@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'W:\PD1821_A_1.18.7\frameworks-ext\base\services\core\java\com\android\server\am\VivoFrozenPackageSupervisor.java'" />
-    <option name="defaultScopeName" value="File 'W:\PD1821_A_1.18.7\frameworks-ext\base\services\core\java\com\android\server\am\VivoFrozenPackageSupervisor.java'" />
-    <option name="SEARCH_SCOPE" value="File 'W:\PD1821_A_1.18.7\frameworks-ext\base\services\core\java\com\android\server\am\VivoFrozenPackageSupervisor.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
